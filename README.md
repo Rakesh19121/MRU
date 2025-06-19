@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1>HTML basics practice</h1>
+    <h2>HTML basics practice</h2>
+    <h3>HTML basics practice<br></h3>
+    
+
+     <h4>HTML basics practice</h4><h5>HTML basics practice
+    
+    </h5><h6>HTML basics practice</h6>
+<h7>HTML basics practice</h7>
+<h1>Text Formating </h1> 
+<h3>HTML is a powerful langugage</h3>
+</body>
+</html>
